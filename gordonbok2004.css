@@ -1,0 +1,250 @@
+p {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #000000;
+	margin-top: 2px;
+	margin-right: 10px;
+	margin-bottom: 8px;
+	margin-left: 0px;
+}
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	background-image: url(img/waterbg1.gif);
+	color: #000000;
+	margin: 0px;
+}
+td {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #000000;
+	font-size: 14px;
+}
+h3 {
+	margin: 10px 0px 0px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #000033;
+	border-bottom-width: 3px;
+	border-bottom-style: solid;
+	border-bottom-color: #CCCCCC;
+}
+a:link {
+	font-weight: bold;
+	color: #009900;
+}
+a:visited {
+	font-weight: bold;
+	color: #FF9900;
+}
+a:hover {
+	font-weight: bold;
+	color: #006633;
+}
+h1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	font-weight: bold;
+	color: #000033;
+	margin-top: 10px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+}
+div#nav {
+	width: 140px;
+	padding: 0px;
+	margin: 0px;
+	background-color: #FFFFFF;
+}
+div#nav a {
+	display: block;
+	padding: 5px;
+	margin: 0px;
+	text-decoration: none;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #993300;
+	background-color: #efefef;
+	color: #000099;
+}
+div#nav a:hover {
+	color: #990000;
+	border-right-width: 4px;
+	border-right-style: solid;
+	border-right-color: #993300;
+	background-color: #CC9999;
+}
+
+div#nav p {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #000066;
+	margin: 0px;
+	padding: 0px;
+	text-align: center;
+}
+div#catbox h4 {
+color: #ffffff
+}
+div#catbox p {
+margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+}
+.quote {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 14px;
+	margin-top: 8px;
+	margin-right: 40px;
+	margin-bottom: 8px;
+	margin-left: 40px;
+	font-style: italic;
+	color: #000000;
+}
+.whiteheads {
+	font-weight: bold;
+	color: #FFFFFF;
+}
+h2 {
+	font-size: 18px;
+	margin-top: 4px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	color: #000033;
+}
+
+div#concerts {
+	background-color: #F0F0F0;
+	margin: 0px;
+	padding: 2px;
+	width: 140px;
+}
+div#concerts p {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	line-height: 10px;
+	margin: 0px;
+	text-align: center;
+}
+div#concerts h4 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	line-height: 10px;
+	color: #FFCC33;
+	background-color: #000099;
+	padding: 3px;
+	margin-top: 6px;
+	margin-bottom: 0px;
+	text-align: center;
+}
+div#concerts h3 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 10px;
+	color: #FFCC33;
+	background-color: #000099;
+	padding: 5px;
+	margin-top: 6px;
+	margin-bottom: 0px;
+	border-bottom-style: none;
+}
+div#header {
+	height: 120px;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 700px;
+}
+.topnav {
+	margin-top: 95px;
+	margin-bottom: 5px;
+	font-size: 13px;
+}
+
+.topnav a {
+	color: #FFCC00;
+	padding: 5px;
+}
+.topnav a:hover {
+color: #FFCC00;
+background: #999999;
+}
+div#main {
+	position: absolute;
+	left: 0px;
+	top: 120px;
+
+}
+.mainregion {
+	padding: 10px;
+}
+.performer {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	text-transform: uppercase;
+	color: #FFFFFF;
+	font-weight: bold;
+}
+.albumcov {
+	padding: 5px;
+}
+.smallwhite {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #FFFFFF;
+	font-weight: bold;
+	text-align: center;
+}
+.homemain {
+	padding: 10px;
+	margin: 10px;
+}
+div#teaser {
+padding: 5px;
+}
+div#teaser h3 {
+	color: #FF0000;
+}
+div#teaser p {
+font-size: 10px;
+}
+.homebox {
+	padding: 5px;
+	border: 2px solid #CCCCCC;
+	margin-top: 10px;
+}
+.homebox h3 {
+	background-color: #CCCCCC;
+	margin-top: 0px;
+	padding: 3px;
+	
+}
+.blackborderimg {
+	border: 1px solid #000000;
+}
+.linkspage {
+	border: 3px solid #000099;
+	padding: 0px;
+	margin-top: 10px;
+}
+.linkspage h3 {
+	background-color: #000099;
+	color: #FFFFFF;
+	margin: 0px;
+	padding: 5px;
+	
+}
+.linkspage p {
+	
+	padding: 5px;
+	
+}
+.caption {
+	font-size: 80%;
+	margin-top: 2px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+}
